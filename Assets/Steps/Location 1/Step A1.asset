@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02e425e53e2a5574cba49c55fe497cb9, type: 3}
   m_Name: Step A1
   m_EditorClassIdentifier: 
-  content: 
-  location: 
+  content: wewqewqe
+  location: Test location
   sprite: {fileID: 0}
   nextSteps: []
